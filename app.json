@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-playing-cards-sample",
+    "slug": "react-native-playing-cards-sample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-playing-cards-sample"
+}
