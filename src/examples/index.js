@@ -20,7 +20,6 @@ const CardExamples = () => {
   }
 
   const onSendBottom = () => {
-    // fix this
     if (drawnCards.length < 1) {
       console.log('Need a card to send to the bottom of the deck')
     } else {
